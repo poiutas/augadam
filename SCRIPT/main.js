@@ -40,7 +40,7 @@ let img_array = [
     },
 
     {
-      title: "You need to know array in javascript!",
+      title: "You need to know arrays in javascript!",
       src: "https://res.cloudinary.com/practicaldev/image/fetch/s--MTMsl-dz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media0.giphy.com/media/DHqth0hVQoIzS/200.gif"
     },
 
@@ -50,7 +50,7 @@ let img_array = [
     },
 
     {
-      title: "Ne gali surasti klaidos kode",
+      title: "Kai negali surasti klaidos kode",
       src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9cHOkso__9gAAgRTZPdOhLpvsV5YoLkKQiIVfxQrLYMBhXrGk8LZogD5ByOM18xggVII&usqp=CAU"
     },
     
