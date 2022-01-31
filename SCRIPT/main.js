@@ -66,6 +66,11 @@
     
 // ]
 
+let img_array;
+
+fetch("https://raw.githubusercontent.com/poiutas/augadam/main/SCRIPT/photos.json").then((response) => response.json())
+.then((img_array) => imageLoad(img_array));
+
 
 function get_random_image(){
   // Get a random index
